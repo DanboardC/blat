@@ -4,14 +4,14 @@
 
 
 The first old guy
-![maze](https://https://github.com/DanboardC/study/blob/master/image/01.png)  
+![maze](https://raw.githubusercontent.com/DanboardC/study/master/image/01.png)  
 
 
 The second old guy
-![maze](https://https://github.com/DanboardC/study/blob/master/image/02.png) 
+![maze](https://raw.githubusercontent.com/DanboardC/study/master/image/02.png) 
 
 
 
 
 The three old guy
-![maze](https://https://github.com/DanboardC/study/blob/master/image/03.png) 
+![maze](https://raw.githubusercontent.com/DanboardC/study/master/image/03.png) 
